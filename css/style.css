@@ -1,0 +1,35 @@
+@charset "utf-8";
+h1{color: goldenrod;
+   background-color: black;
+   text-align: center;
+}
+
+h3{color: darkgrey;
+   background-color: darkslategray;
+	font-style: italic;
+	  
+}
+
+h4{
+	color: aliceblue;
+	background-color: crimson;
+	font-style: italic;
+}
+
+h5{
+	color: dodgerblue;
+	background-color: khaki;
+	font-style: italic;
+		
+}
+
+p{color: white;
+ background-color: black;
+	 
+}
+
+
+
+
+
+
